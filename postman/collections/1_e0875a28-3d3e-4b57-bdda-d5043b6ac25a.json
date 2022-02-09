@@ -1,12 +1,12 @@
 {
     "info": {
         "_postman_id": "a11251f0-e948-4208-b188-9077431e1dcb",
-        "name": "1",
+        "name": "1-3213",
         "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
     },
     "item": [
         {
-            "name": "Sample endpoint: Returns details about a particulassrs",
+            "name": "Sample endpoint: Returns details about a particulassr",
             "id": "99b447fd-26b9-4285-bdfd-0e3db7f80b6e",
             "request": {
                 "method": "GET",
