@@ -1,13 +1,13 @@
 openapi: 3.0.0
 info:
   version: '1'
-  title: 'pmtest1-githubs'
+  title: 'pmtest1'
 servers:
   - url: 'localhost:3000'
 paths:
   /user:
     get:
-      summary: 'Sample endpoint: Returns details about a'
+      summary: 'Sample endpoint: Returns details about a particular'
       operationId: listUser
       tags:
         - user
